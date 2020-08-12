@@ -4,8 +4,8 @@ Ein einfaches Skript für die Installation von Magic the Gathering Arena mit ein
 
 **Download: [magic-latest](https://github.com)**
 
-Source: https://github.com/sudo-give-me-coffee/wine32-deploy
-Source: https://mtgarena.downloads.wizards.com/Live/Windows32/versions/3009.800581/MTGAInstaller_0.1.3009.800581.msi
+**Source: [Wine32-AppImage](https://github.com/sudo-give-me-coffee/wine32-deploy)**
+**Source: [MTGA-Installer](https://mtgarena.downloads.wizards.com/Live/Windows32/versions/3009.800581/MTGAInstaller_0.1.3009.800581.msi)**
 
 ## Dependencies
 
@@ -46,6 +46,6 @@ $HOME/.local/apps/magic
 ## Update
 
 * Hier die neuste Magic Version auslesen und herunterladen: https://mtgarena.downloads.wizards.com/Live/Windows32/version
-* Die heruntergeladene Datei in den Installationsordner "$HOME/.local/apps/magic/" ziehen.
-* Im Skript "update.sh" den Dateinamen ändern und danach ausführen.
+* Die heruntergeladene Datei in den Installationsordner ```$HOME/.local/apps/magic/``` ziehen.
+* Im Skript ```update.sh``` den Dateinamen ändern und danach ausführen.
 
