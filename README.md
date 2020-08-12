@@ -5,7 +5,7 @@
 </p>
 
 
-**Download: [mtga-latest](https://github.com/linux-ott/mtga-appimage/releases/tag/mtga-appimage)**
+**Download: [mtga-appimage](https://github.com/linux-ott/mtga-appimage/releases/tag/mtga-appimage)**
 
 No wine installation required
 
