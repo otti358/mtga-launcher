@@ -2,7 +2,7 @@
 ![GitHub Logo](data/magic_logo.png)
 
 <p align="center"><i>"Magic: The Gathering is a collectible and digital collectible card game created by Richard Garfield, released in 1993 by Wizards of the Coast."
-distributions.</p>
+</p>
 
 A simple script to install Magic the Gathering Arena via an Wine32-AppImage
 
