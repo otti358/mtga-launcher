@@ -20,7 +20,7 @@ sudo apt install wget
 
 ## Install Magic
 
-Zum installieren "install_magic.sh" ausführen und dabei die Ordner-Pfade unter Windows nicht ändern.
+Zum installieren ```install_magic.sh``` ausführen und dabei die Ordner-Pfade unter Windows nicht ändern.
 ```
 ./install_magic.sh
 ```
@@ -51,5 +51,5 @@ $HOME/.local/apps/magic
 ## Source
 **[Wine32-AppImage](https://github.com/sudo-give-me-coffee/wine32-deploy)**
 
-**[MTGA-Installer](https://mtgarena.downloads.wizards.com/Live/Windows32/versions/3009.800581/MTGAInstaller_0.1.3009.800581.msi)**
+**[MTGAInstaller](https://mtgarena.downloads.wizards.com/Live/Windows32/versions/3009.800581/MTGAInstaller_0.1.3009.800581.msi)**
 
