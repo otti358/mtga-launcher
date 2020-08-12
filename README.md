@@ -4,8 +4,6 @@
 <p align="center"><i>"Magic: The Gathering is a collectible and digital collectible card game created by Richard Garfield, released in 1993 by Wizards of the Coast."
 </p>
 
-A simple script to install Magic the Gathering Arena via an Wine32-AppImage
-
 No wine installation required
 
 **Download: [mtga-latest](https://github.com/linux-ott/mtga-appimage/releases/tag/mtga-appimage)**
