@@ -45,7 +45,6 @@ $HOME/.local/apps/magic
 ## Update
 
 * Hier die neuste Magic Version auslesen und herunterladen: **[Version](https://mtgarena.downloads.wizards.com/Live/Windows32/version)**
-https://mtgarena.downloads.wizards.com/Live/Windows32/version
 * Die heruntergeladene Datei in den Installationsordner ```$HOME/.local/apps/magic/``` ziehen.
 * Im Skript ```update.sh``` den Dateinamen ändern und danach ausführen.
 
