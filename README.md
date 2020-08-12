@@ -1,7 +1,7 @@
 
 ![GitHub Logo](data/magic_logo.jpg)
 
-<p align="center"><i>"Magic: The Gathering is a collectible and digital collectible card game created by Richard Garfield, released in 1993 by Wizards of the Coast.</i>"
+<p align="center"><i>"Magic: The Gathering is a collectible and digital collectible card game created by Richard Garfield. Released in 1993 by Wizards of the Coast.</i>"
 </p>
 
 
