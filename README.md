@@ -49,5 +49,4 @@ Installationsverzeichnis ```$HOME/.local/apps/magic```
 ## Sources
 **[Wine32-AppImage](https://github.com/sudo-give-me-coffee/wine32-deploy)**
 
-**[MTGAInstaller](https://mtgarena.downloads.wizards.com/Live/Windows32/versions/3009.800581/MTGAInstaller_0.1.3009.800581.msi)**
-
+**[MTGA-Installer](https://mtgarena.downloads.wizards.com/Live/Windows32/versions/3009.800581/MTGAInstaller_0.1.3009.800581.msi)**

@@ -83,4 +83,3 @@ fi
 
 # Notify
 notify-send -i "magic-bottle" " Magic erfolgreich installiert"
-
