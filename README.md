@@ -1,4 +1,4 @@
-# Magic the Gathering Arena • Wine32-AppImage
+# Magic The Gathering Arena • Wine32-AppImage
 
 A simple script to install Magic the Gathering Arena with a Wine32-AppImage
 
@@ -48,7 +48,7 @@ cd $HOME/.local/apps/magic
 
 * Download the latest Magic version **[here](https://mtgarena.downloads.wizards.com/Live/Windows32/version)**
 * Copy the downloaded file into the installation folder  ```$HOME/.local/apps/magic/```
-* Change file name in script ```update.sh``` and execute.
+* Change file name in script ```update.sh``` and execute
 
 ## Sources
 **[Wine32-AppImage](https://github.com/sudo-give-me-coffee/wine32-deploy)**
