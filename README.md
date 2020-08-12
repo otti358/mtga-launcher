@@ -5,6 +5,7 @@ Ein einfaches Skript für die Installation von Magic the Gathering Arena mit ein
 **Download: [magic-latest](https://github.com)**
 
 **Source: [Wine32-AppImage](https://github.com/sudo-give-me-coffee/wine32-deploy)**
+
 **Source: [MTGA-Installer](https://mtgarena.downloads.wizards.com/Live/Windows32/versions/3009.800581/MTGAInstaller_0.1.3009.800581.msi)**
 
 ## Dependencies
