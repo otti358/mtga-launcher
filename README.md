@@ -28,7 +28,7 @@ To install, run ``install_magic.sh`` and do not change the folder-paths on Windo
 ./install_magic.sh
 ```
 
-The installation directory is created here ```$HOME/.local/apps/magic```
+Installation directory ```$HOME/.local/apps/magic```
 
 ## Run Magic
 
