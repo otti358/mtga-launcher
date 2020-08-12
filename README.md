@@ -1,7 +1,7 @@
 
 ![GitHub Logo](data/magic_logo.png)
 
-<p align="center"><i>"A simple and lightweight way to distribute the 32-bit Microsoft Windows® application on Linux"</i>.<br> It works on most Linux
+<p align="center"><i>"Magic: The Gathering is a collectible and digital collectible card game created by Richard Garfield, released in 1993 by Wizards of the Coast."
 distributions.</p>
 
 A simple script to install Magic the Gathering Arena via an Wine32-AppImage
