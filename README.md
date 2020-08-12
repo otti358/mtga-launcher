@@ -1,8 +1,8 @@
 # Magic the Gathering Arena - AppImage
 
-Ein einfaches Skript für die Installation von Magic the Gathering Arena mit einem Wine32-AppImage.
+A simple script to install Magic the Gathering Arena with a Wine32-AppImage
 
-No wine installation required.
+No wine installation required
 
 **Download: [mtga-latest](https://github.com/linux-ott/mtga-appimage/releases/tag/mtga-appimage)**
 
@@ -22,12 +22,13 @@ sudo apt install wget
 
 ## Install Magic
 
-Zum installieren ```install_magic.sh``` ausführen und dabei die Ordner-Pfade unter Windows nicht ändern
+To install, run ``install_magic.sh`` and do not change the folder-paths on Windows
+
 ```
 ./install_magic.sh
 ```
 
-Hier wird das Installationsverzeichnis angelegt ```$HOME/.local/apps/magic```
+The installation directory is created here ```$HOME/.local/apps/magic```
 
 ## Run Magic
 
@@ -45,9 +46,9 @@ cd $HOME/.local/apps/magic
 
 ## Update
 
-* **[Hier](https://mtgarena.downloads.wizards.com/Live/Windows32/version)** die neuste Magic Version auslesen und herunterladen
-* Die heruntergeladene Datei in den Installationsordner ```$HOME/.local/apps/magic/``` ziehen
-* Im Skript ```update.sh``` den Dateinamen ändern und danach ausführen
+* Download the latest Magic version **[here](https://mtgarena.downloads.wizards.com/Live/Windows32/version)**
+* Copy the downloaded file into the installation folder  ```$HOME/.local/apps/magic/```
+* Change file name in script ```update.sh``` and execute.
 
 ## Sources
 **[Wine32-AppImage](https://github.com/sudo-give-me-coffee/wine32-deploy)**
