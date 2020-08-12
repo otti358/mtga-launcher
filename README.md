@@ -9,6 +9,8 @@ Ein einfaches Skript für die Installation von Magic the Gathering Arena mit ein
 
 ## Dependencies
 
+No wine installation required!
+
 ### Arch
 ```
 sudo pacman -S wget
