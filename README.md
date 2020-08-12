@@ -1,6 +1,9 @@
 
 ![GitHub Logo](data/magic_logo.png)
 
+<p align="center"><i>"A simple and lightweight way to distribute the 32-bit Microsoft Windows® application on Linux"</i>.<br> It works on most Linux
+distributions.</p>
+
 A simple script to install Magic the Gathering Arena via an Wine32-AppImage
 
 No wine installation required
