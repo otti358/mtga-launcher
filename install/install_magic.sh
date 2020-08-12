@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Win32-AppImage https://github.com/sudo-give-me-coffee/wine32-deploy
-# Hier kannst du die aktuelle Magic The Gathering Arena Version auslesen https://mtgarena.downloads.wizards.com/Live/Windows32/version
+# Latest MTGA Version https://mtgarena.downloads.wizards.com/Live/Windows32/version
 
 
 ## Install
@@ -84,4 +84,4 @@ else
 fi
 
 # Notify
-notify-send -i "magic-bottle" " Magic erfolgreich installiert"
+notify-send -i "magic-bottle" "Magic successfully installed"
