@@ -48,7 +48,7 @@ cd $HOME/.local/apps/magic
 ## Update
 
 * Download the latest MTGA version **[here](https://mtgarena.downloads.wizards.com/Live/Windows32/version)**
-* Copy the MTGA.exe into the installation folder  ```$HOME/.local/apps/magic/```
+* Copy the ```MTGA.EXE``` into the installation folder  ```$HOME/.local/apps/magic/```
 * Change file name in script ```update.sh``` and execute
 
 ## Sources
