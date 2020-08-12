@@ -20,10 +20,6 @@ sudo apt install wget
 
 ## Install Magic
 
-**Source: [Wine32-AppImage](https://github.com/sudo-give-me-coffee/wine32-deploy)**
-
-**Source: [MTGA-Installer](https://mtgarena.downloads.wizards.com/Live/Windows32/versions/3009.800581/MTGAInstaller_0.1.3009.800581.msi)**
-
 Zum installieren "install_magic.sh" ausführen und dabei die Ordner-Pfade unter Windows nicht ändern.
 ```
 ./install_magic.sh
@@ -51,4 +47,9 @@ $HOME/.local/apps/magic
 * Hier die neuste Magic Version auslesen und herunterladen: https://mtgarena.downloads.wizards.com/Live/Windows32/version
 * Die heruntergeladene Datei in den Installationsordner ```$HOME/.local/apps/magic/``` ziehen.
 * Im Skript ```update.sh``` den Dateinamen ändern und danach ausführen.
+
+### Source
+**[Wine32-AppImage](https://github.com/sudo-give-me-coffee/wine32-deploy)**
+
+**[MTGA-Installer](https://mtgarena.downloads.wizards.com/Live/Windows32/versions/3009.800581/MTGAInstaller_0.1.3009.800581.msi)**
 
