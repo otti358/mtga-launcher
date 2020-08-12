@@ -44,11 +44,12 @@ $HOME/.local/apps/magic
 
 ## Update
 
-* Hier die neuste Magic Version auslesen und herunterladen: https://mtgarena.downloads.wizards.com/Live/Windows32/version
+* Hier die neuste Magic Version auslesen und herunterladen: **[Version](https://mtgarena.downloads.wizards.com/Live/Windows32/version)**
+https://mtgarena.downloads.wizards.com/Live/Windows32/version
 * Die heruntergeladene Datei in den Installationsordner ```$HOME/.local/apps/magic/``` ziehen.
 * Im Skript ```update.sh``` den Dateinamen ändern und danach ausführen.
 
-### Source
+## Source
 **[Wine32-AppImage](https://github.com/sudo-give-me-coffee/wine32-deploy)**
 
 **[MTGA-Installer](https://mtgarena.downloads.wizards.com/Live/Windows32/versions/3009.800581/MTGAInstaller_0.1.3009.800581.msi)**
