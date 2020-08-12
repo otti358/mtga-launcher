@@ -25,10 +25,7 @@ Zum installieren ```install_magic.sh``` ausführen und dabei die Ordner-Pfade un
 ./install_magic.sh
 ```
 
-Installationsverzeichnis:
-```
-$HOME/.local/apps/magic
-```
+Installationsverzeichnis ```$HOME/.local/apps/magic```
 
 ## Run Magic
 
