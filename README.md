@@ -21,12 +21,12 @@ sudo apt install wget
 
 ## Install Magic
 
-Zum installieren ```install_magic.sh``` ausführen und dabei die Ordner-Pfade unter Windows nicht ändern.
+Zum installieren ```install_magic.sh``` ausführen und dabei die Ordner-Pfade unter Windows nicht ändern
 ```
 ./install_magic.sh
 ```
 
-Installationsverzeichnis ```$HOME/.local/apps/magic```
+Hier wird das Installationsverzeichnis angelegt ```$HOME/.local/apps/magic```
 
 ## Run Magic
 
