@@ -1,4 +1,4 @@
-# Magic the Gathering Arena - AppImage
+# Magic the Gathering Arena • Wine32-AppImage
 
 A simple script to install Magic the Gathering Arena with a Wine32-AppImage
 
