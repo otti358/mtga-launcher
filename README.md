@@ -1,4 +1,5 @@
-# Magic The Gathering Arena • Wine32-AppImage
+
+![GitHub Logo](data/magic_logo.png)
 
 A simple script to install Magic the Gathering Arena via an Wine32-AppImage
 
@@ -6,7 +7,7 @@ No wine installation required
 
 **Download: [mtga-latest](https://github.com/linux-ott/mtga-appimage/releases/tag/mtga-appimage)**
 
-![GitHub Logo](screenshot.jpg)
+![GitHub Logo](data/screenshot.jpg)
 
 ## Dependencies
 
