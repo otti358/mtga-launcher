@@ -5,7 +5,7 @@ Ein einfaches Skript für die Installation von Magic the Gathering Arena mit ein
 
 **Download: [mtga-latest](https://github.com/linux-ott/mtga-appimage/releases/tag/mtga-appimage)**
 
-```no wine installation required```
+No wine installation required
 
 ![GitHub Logo](screenshot.jpg)
 
