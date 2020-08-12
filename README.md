@@ -39,7 +39,7 @@ $HOME/.local/apps/magic
 ## Winetricks
 
 ```
-./WINE32.APPIMAGE --winetricks BOTTLENAME
+./Wine-4.21-x86_64.AppImage --winetricks magic-bottle
 ```
 
 ## Update
