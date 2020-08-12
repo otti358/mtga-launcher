@@ -57,6 +57,7 @@ then
 	cp magic.desktop $HOME/.local/apps/magic/install
 	cd ..
 	cp run.sh $HOME/.local/apps/magic
+	cp winetricks.sh $HOME/.local/apps/magic
 	cp update.sh $HOME/.local/apps/magic
 	cp README.md $HOME/.local/apps/magic
 	cp remove.sh $HOME/.local/apps/magic
@@ -74,6 +75,7 @@ else
 	cp magic.desktop $HOME/.local/apps/magic/install
 	cd ..
 	cp run.sh $HOME/.local/apps/magic
+	cp winetricks.sh $HOME/.local/apps/magic
 	cp update.sh $HOME/.local/apps/magic
 	cp README.md $HOME/.local/apps/magic
 	cp remove.sh $HOME/.local/apps/magic
