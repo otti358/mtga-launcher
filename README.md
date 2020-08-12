@@ -45,7 +45,7 @@ Installationsverzeichnis ```$HOME/.local/apps/magic```
 * Die heruntergeladene Datei in den Installationsordner ```$HOME/.local/apps/magic/``` ziehen
 * Im Skript ```update.sh``` den Dateinamen ändern und danach ausführen
 
-## Source
+## Sources
 **[Wine32-AppImage](https://github.com/sudo-give-me-coffee/wine32-deploy)**
 
 **[MTGAInstaller](https://mtgarena.downloads.wizards.com/Live/Windows32/versions/3009.800581/MTGAInstaller_0.1.3009.800581.msi)**
