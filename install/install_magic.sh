@@ -7,6 +7,9 @@
 ## Install
 
 script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
+remote_version=$(curl --silent "https://mtgarena.downloads.wizards.com/Live/Windows32/version" | jq -r ".CurrentInstallerURL");
+
+
 
 echo -e "
 
@@ -23,17 +26,17 @@ echo -e "
 wget -O Wine-4.21-x86_64.AppImage https://github.com/sudo-give-me-coffee/wine32-deploy/releases/download/continuous/Wine-4.21-x86_64.AppImage
 
 # Download MTGA Installer
-wget -O MTGAInstaller_0.1.3009.800581.msi https://mtgarena.downloads.wizards.com/Live/Windows32/versions/3009.800581/MTGAInstaller_0.1.3009.800581.msi
+wget -O mtga_installer.msi "$remote_version"
 
 # Change File Permissions
 chmod +x Wine-4.21-x86_64.AppImage
-chmod +x MTGAInstaller_0.1.3009.800581.msi
+chmod +x mtga_installer.msi
 
 # Create Wine Bottle
 ./Wine-4.21-x86_64.AppImage create-bottle magic-bottle
 
 # Install File
-./Wine-4.21-x86_64.AppImage install magic-bottle MTGAInstaller_0.1.3009.800581.msi
+./Wine-4.21-x86_64.AppImage install magic-bottle mtga_installer.msi
 
 # Set Main Executable 
 ./Wine-4.21-x86_64.AppImage set-main-executable magic-bottle "C:/Program Files/Wizards of the Coast/MTGA/MTGA.exe"
@@ -62,7 +65,7 @@ then
 	cp README.md $HOME/.local/apps/magic
 	cp remove.sh $HOME/.local/apps/magic
 	cd install/
-	rm -R MTGAInstaller_0.1.3009.800581.msi
+	rm -R mtga_installer.msi
 else
     mkdir $HOME/.local/apps/
 	mkdir $HOME/.local/apps/magic/
@@ -80,7 +83,7 @@ else
 	cp README.md $HOME/.local/apps/magic
 	cp remove.sh $HOME/.local/apps/magic
 	cd install/
-	rm -R MTGAInstaller_0.1.3009.800581.msi
+	rm -R mtga_installer.msi
 fi
 
 # Notify

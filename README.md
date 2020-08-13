@@ -38,18 +38,21 @@ cd $HOME/.local/apps/magic
 ./Wine-4.21-x86_64.AppImage run magic-bottle
 ```
 
+## Update
+
+```
+cd $HOME/.local/apps/magic
+./update.sh
+```
+
+**Download: [mtga-version](https://mtgarena.downloads.wizards.com/Live/Windows32/version)**
+
 ## Winetricks
 
 ```
 cd $HOME/.local/apps/magic
 ./Wine-4.21-x86_64.AppImage --winetricks magic-bottle
 ```
-
-## Update
-
-* Download the latest MTGA version **[here](https://mtgarena.downloads.wizards.com/Live/Windows32/version)**
-* Copy the ```MTGAINSTALLER.EXE``` into the installation directory ```$HOME/.local/apps/magic/```
-* Rename folder-paths in script ```nano update.sh``` and execute ```./update.sh```
 
 ## Sources
 **[Wine32-AppImage](https://github.com/sudo-give-me-coffee/wine32-deploy)**
