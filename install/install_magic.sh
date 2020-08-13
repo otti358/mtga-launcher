@@ -3,13 +3,7 @@
 # Win32-AppImage https://github.com/sudo-give-me-coffee/wine32-deploy
 # Latest MTGA Version https://mtgarena.downloads.wizards.com/Live/Windows32/version
 
-
 ## Install
-
-script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
-remote_version=$(curl --silent "https://mtgarena.downloads.wizards.com/Live/Windows32/version" | jq -r ".CurrentInstallerURL");
-
-
 
 echo -e "
 
@@ -21,6 +15,9 @@ echo -e "
 
 
 "
+
+script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
+remote_version=$(curl --silent "https://mtgarena.downloads.wizards.com/Live/Windows32/version" | jq -r ".CurrentInstallerURL");
 
 # Download Win32-AppImage 
 wget -O Wine-4.21-x86_64.AppImage https://github.com/sudo-give-me-coffee/wine32-deploy/releases/download/continuous/Wine-4.21-x86_64.AppImage
