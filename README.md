@@ -40,12 +40,12 @@ cd $HOME/.local/apps/magic
 
 ## Update
 
+**[mtga-version](https://mtgarena.downloads.wizards.com/Live/Windows32/version)**
+
 ```
 cd $HOME/.local/apps/magic
 ./update.sh
 ```
-
-**Download: [mtga-version](https://mtgarena.downloads.wizards.com/Live/Windows32/version)**
 
 ## Winetricks
 
