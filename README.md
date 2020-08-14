@@ -33,7 +33,7 @@ cd mtga-appimage/install
 
 Installation directory ```$HOME/.local/apps/magic```
 
-## Arguments
+## Magic usage commands
 
 | Arguments       |    | What its does                                   |
 |-----------------|----|-------------------------------------------------|
@@ -42,29 +42,6 @@ Installation directory ```$HOME/.local/apps/magic```
 | --remove        | => | Removed Magic                                   |
 | --update        | => | Update Magic                                    |
 | --winetricks    | => | Start Winetricks                                |
-
-
-
-## Run Magic
-
-```
-cd $HOME/.local/apps/magic
-./run.sh
-```
-
-## Update Magic
-
-```
-cd $HOME/.local/apps/magic
-./update.sh
-```
-
-## Winetricks
-
-```
-cd $HOME/.local/apps/magic
-./winetricks.sh
-```
 
 ## Sources
 **[Wine32-AppImage](https://github.com/sudo-give-me-coffee/wine32-deploy)**
