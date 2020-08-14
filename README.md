@@ -40,7 +40,7 @@ cd $HOME/.local/apps/magic
 ./run.sh
 ```
 
-## Update
+## Update Magic
 
 ```
 cd $HOME/.local/apps/magic
