@@ -35,13 +35,14 @@ Installation directory ```$HOME/.local/apps/magic```
 
 ## Arguments
 
-| Arguments       |
-|-----------------|
-| --install       |
-| --run           |
-| --remove        |
-| --update        |
-| --winetricks    |
+| Arguments       |    | What its does                                   |
+|-----------------|----|-------------------------------------------------|
+| --install       | => | Installed Magic                                 |
+| --run           | => | Run Magic                                       |
+| --remove        | => | Removed Magic                                   |
+| --update        | => | Update Magic                                    |
+| --winetricks    | => | Start Winetricks                                |
+
 
 
 ## Run Magic
