@@ -33,7 +33,7 @@ cd mtga-appimage/install
 
 Installation directory ```$HOME/.local/apps/magic```
 
-## Usage arguments
+## Usage Arguments
 
 | Arguments       |    | What its does                                   |
 |-----------------|----|-------------------------------------------------|
