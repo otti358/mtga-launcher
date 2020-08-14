@@ -27,7 +27,7 @@ Do not change the folder-paths on Windows
 
 ```
 git clone https://github.com/linux-ott/mtga-appimage.git
-cd mtga-appimage/mtga-appimage.sh
+cd mtga-appimage/
 ./mtga-appimage.sh --install
 ```
 
