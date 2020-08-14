@@ -33,9 +33,9 @@ cd mtga-appimage/install
 
 Installation directory ```$HOME/.local/apps/magic```
 
-## Parameters
+## Arguments
 
-| Parameters      |
+| Arguments       |
 |-----------------|
 | --install       |
 | --run           |
