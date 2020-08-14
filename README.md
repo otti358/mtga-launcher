@@ -48,3 +48,6 @@ Installation directory ```$HOME/.local/apps/magic```
 **[Wine32-AppImage](https://github.com/sudo-give-me-coffee/wine32-deploy)**
 
 **[MTGA-Version](https://mtgarena.downloads.wizards.com/Live/Windows32/version)**
+
+**[Logo](https://cdn.wccftech.com/wp-content/uploads/2018/09/Magic-the-Gathering-Arena-Art.jpg)**
+
