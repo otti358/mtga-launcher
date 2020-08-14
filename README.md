@@ -26,6 +26,8 @@ sudo apt install wget
 To install, run ``install_magic.sh`` and do not change the folder-paths on Windows
 
 ```
+git clone https://github.com/linux-ott/mtga-appimage.git
+cd mtga-appimage/install
 ./install_magic.sh
 ```
 
