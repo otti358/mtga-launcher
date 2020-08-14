@@ -13,12 +13,12 @@ No wine installation required
 
 ### Arch
 ```
-sudo pacman -S wget
+sudo pacman -S wget jq curl
 ```
 
 ### Debian/Ubuntu/elementaryOS
 ```
-sudo apt install wget
+sudo apt install wget jq curl
 ```
 
 ## Install Magic
