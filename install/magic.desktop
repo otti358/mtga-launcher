@@ -1,5 +1,0 @@
-[Desktop Entry]
-Name=Magic
-Icon=magic-bottle
-Exec=.local/apps/magic/run.sh
-Type=Application
