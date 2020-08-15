@@ -61,7 +61,7 @@ install() {
 
     # Copy Files
     cp "$script_res_dir/magic-bottle.svg" "$HOME/.local/share/icons/"
-    cp -r "$script_dir/magic-bottle" "$magic_dir"
+    mv "$script_dir/magic-bottle" "$magic_dir"
     cp -r "$script_dir/mtga-appimage.sh" "$magic_dir"
 
     # Create Desktop File
