@@ -140,9 +140,9 @@ if [ "$1" = "" ]; then
     echo -e "
     HELP:
     \t./mtga-appimage.sh --install
+    \t./mtga-appimage.sh --run
     \t./mtga-appimage.sh --remove
     \t./mtga-appimage.sh --update
-    \t./mtga-appimage.sh --run
     \t./mtga-appimage.sh --winetricks
     "
     exit 0
