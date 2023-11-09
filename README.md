@@ -24,7 +24,11 @@ Do not change the folder-paths on Windows.
 
 ```
 git clone https://github.com/linux-ott/mtga-launcher.git
+```
+```
 cd mtga-launcher/
+```
+```
 ./mtga-launcher.sh --install
 ```
 
