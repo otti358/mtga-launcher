@@ -28,7 +28,7 @@ git clone https://github.com/linux-ott/mtga-launcher.git
 cd mtga-launcher/
 ```
 ```
-./mtga-launcher.sh --install
+./mtga-launcher
 ```
 
 ## Update Magic
