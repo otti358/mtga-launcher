@@ -5,7 +5,7 @@
 </p>
 
 
-**Download: [mtga-appimage](https://github.com/linux-ott/mtga-appimage/releases/tag/mtga-appimage)**
+**Download: [mtga-launcher](https://github.com/linux-ott/mtga-appimage/releases/tag/mtga-appimage)**
 
 No wine installation required
 
@@ -13,12 +13,12 @@ No wine installation required
 
 ### Arch
 ```
-sudo pacman -S wget jq curl
+sudo pacman -S jq curl
 ```
 
-### Debian/Ubuntu/elementaryOS
+### Debian
 ```
-sudo apt install wget jq curl
+sudo apt install jq curl
 ```
 
 ## Install Magic
@@ -26,26 +26,20 @@ sudo apt install wget jq curl
 Do not change the folder-paths on Windows
 
 ```
-git clone https://github.com/linux-ott/mtga-appimage.git
-cd mtga-appimage/
-./mtga-appimage.sh --install
+git clone https://github.com/linux-ott/mtga-launcher.git
+cd mtga-launcher/
+./mtga-launcher.sh --install
 ```
 
-Installation directory ```$HOME/.local/apps/magic```
+## Update Magic
+```
+mtga-launcher --update 
+```
 
-## Usage Arguments
-
-| Arguments       |    | What its does                                   |
-|-----------------|----|-------------------------------------------------|
-| --install       | => | Installed Magic                                 |
-| --run           | => | Run Magic                                       |
-| --remove        | => | Removed Magic                                   |
-| --update        | => | Update Magic                                    |
-| --winetricks    | => | Start Winetricks                                |
 
 ## Sources
 
-**[Wine32-AppImage](https://github.com/sudo-give-me-coffee/wine32-deploy)**
+**[Proton](https://github.com/sudo-give-me-coffee/wine32-deploy)**
 
 **[MTGA-Version](https://mtgarena.downloads.wizards.com/Live/Windows32/version)**
 
