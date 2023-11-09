@@ -41,8 +41,6 @@ mtga-launcher --update
 
 **[Proton](https://github.com/Kron4ek/Wine-Builds)**
 
-**[MTGA-Version](https://mtgarena.downloads.wizards.com/Live/Windows64/version)**
-
 **[Logo](https://cdn.wccftech.com/wp-content/uploads/2018/09/Magic-the-Gathering-Arena-Art.jpg)**
 
 
