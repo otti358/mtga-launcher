@@ -31,7 +31,7 @@ cd mtga-launcher/
 ./mtga-launcher
 ```
 
-## Update Magic
+## Force Magic
 ```
 mtga-launcher --update 
 ```
