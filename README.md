@@ -6,21 +6,20 @@
 
 
 ## Dependencies
-No wine installation required.
 
 ### Arch
 ```
-sudo pacman -S jq curl
+sudo pacman -S wine jq curl
 ```
 
 ### Debian
 ```
-sudo apt install jq curl
+sudo apt install wine jq curl
 ```
 
 ## Install Magic
 
-Do not change the folder-paths on Windows.
+❗❗ Do not change the folder-paths on Windows ❗❗
 
 ```
 git clone https://github.com/linux-ott/mtga-launcher.git
