@@ -5,25 +5,22 @@
 </p>
 
 
-**Download: [mtga-launcher](https://github.com/linux-ott/mtga-appimage/releases/tag/mtga-appimage)**
-
-No wine installation required
-
 ## Dependencies
+No wine installation required.
 
-#### Arch
+### Arch
 ```
 sudo pacman -S jq curl
 ```
 
-#### Debian
+### Debian
 ```
 sudo apt install jq curl
 ```
 
 ## Install Magic
 
-Do not change the folder-paths on Windows
+Do not change the folder-paths on Windows.
 
 ```
 git clone https://github.com/linux-ott/mtga-launcher.git
@@ -39,9 +36,10 @@ mtga-launcher --update
 
 ### Sources
 
-**[Wine-Builds, Proton](https://github.com/Kron4ek/Wine-Builds)**
+**[Proton](https://github.com/Kron4ek/Wine-Builds)**
 
 **[MTGA-Version](https://mtgarena.downloads.wizards.com/Live/Windows64/version)**
 
 **[Logo](https://cdn.wccftech.com/wp-content/uploads/2018/09/Magic-the-Gathering-Arena-Art.jpg)**
+
 
