@@ -11,12 +11,12 @@ No wine installation required
 
 ## Dependencies
 
-### Arch
+#### Arch
 ```
 sudo pacman -S jq curl
 ```
 
-### Debian
+#### Debian
 ```
 sudo apt install jq curl
 ```
@@ -37,11 +37,11 @@ mtga-launcher --update
 ```
 
 
-## Sources
+### Sources
 
-**[Proton](https://github.com/sudo-give-me-coffee/wine32-deploy)**
+**[Wine-Builds, Proton](https://github.com/Kron4ek/Wine-Builds)**
 
-**[MTGA-Version](https://mtgarena.downloads.wizards.com/Live/Windows32/version)**
+**[MTGA-Version](https://mtgarena.downloads.wizards.com/Live/Windows64/version)**
 
 **[Logo](https://cdn.wccftech.com/wp-content/uploads/2018/09/Magic-the-Gathering-Arena-Art.jpg)**
 
