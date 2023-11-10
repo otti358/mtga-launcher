@@ -1,7 +1,7 @@
 
 ![GitHub Logo](res/magic_logo.jpg)
 
-<p align="center"><i>"Magic The Gathering is a collectible and digital collectible card game created by Richard Garfield. Released in 1993 by Wizards of the Coast.</i>"
+<p align="center"><i>"Magic the Gathering Arena is a free-to-play digital collectible card game developed by Wizards of the Coast. The game is a digital adaption based on the Magic the Gathering card game, allowing players to gain cards through booster packs, in-game achievements or microtransaction purchases, and build their own decks to challenge other players.</i>"
 </p>
 
 
