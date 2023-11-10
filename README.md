@@ -36,18 +36,21 @@ cd mtga-launcher/
 mtga-launcher --update 
 ```
 
-## Gameplay
-
-![GitHub Logo](res/mtga-cards.jpg)
-
-![GitHub Logo](res/mtga-gameplay.jpg)
-
-### Sources
+## Sources
 
 **[MTGA](https://magic.wizards.com/de/mtgarena)**
 
 **[Wine](https://github.com/Kron4ek/Wine-Builds)**
 
-**[Logo](https://cdn.wccftech.com/wp-content/uploads/2018/09/Magic-the-Gathering-Arena-Art.jpg)**
+
+
+## Gameplay
+
+
+![GitHub Logo](res/mtga-cards.jpg)
+
+![GitHub Logo](res/mtga-gameplay.jpg)
+
+
 
 
