@@ -22,7 +22,7 @@ sudo apt install wine jq curl
 ❗❗ Do not change the folder paths from the Windows Installer ❗❗
 
 ```
-git clone https://github.com/linux-ott/mtga-launcher.git
+git clone https://github.com/otti358/mtga-launcher.git
 ```
 ```
 cd mtga-launcher/
