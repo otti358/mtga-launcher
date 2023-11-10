@@ -19,7 +19,7 @@ sudo apt install wine jq curl
 
 ## Install Magic
 
-❗❗ Do not change the folder-paths on Windows ❗❗
+❗❗ Do not change the folder paths from the Windows Installer ❗❗
 
 ```
 git clone https://github.com/linux-ott/mtga-launcher.git
@@ -37,6 +37,9 @@ mtga-launcher --update
 ```
 
 ## Gameplay
+
+![GitHub Logo](res/mtga-cards.jpg)
+
 ![GitHub Logo](res/mtga-gameplay.jpg)
 
 ### Sources
