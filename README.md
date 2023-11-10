@@ -17,7 +17,7 @@ sudo pacman -S wine jq curl
 sudo apt install wine jq curl
 ```
 
-## Install Magic
+## Install MTGA-Launcher
 
 ❗❗ Do not change the folder paths from the Windows Installer ❗❗
 
@@ -31,7 +31,7 @@ cd mtga-launcher/
 ./mtga-launcher
 ```
 
-## Force Magic
+## Force MTGA-Launcher
 ```
 mtga-launcher --update 
 ```
