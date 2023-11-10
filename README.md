@@ -33,7 +33,7 @@ cd mtga-launcher/
 
 ## Force Magic
 ```
-mtga-launcher --update 
+./mtga-launcher --update 
 ```
 
 ## Sources
